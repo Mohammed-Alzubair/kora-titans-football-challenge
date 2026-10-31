@@ -17,6 +17,12 @@ Build the production version with:
 
     npm run build
 
+## Programming languages and tools
+
+**Programming languages:** TypeScript (main game code), JavaScript (tooling and configuration), HTML, and CSS.
+
+**Frameworks and tools:** React, Vite, and Tailwind CSS.
+
 ## Game features
 
 - A reworked 100-stage route with distinct football challenges and stage names.
@@ -66,3 +72,5 @@ The club directory reflects a 2026/27 season snapshot checked on 25 October 2026
 - [Ligue 1 all-time scoring records](https://ligue1.com/en/articles/l1_article_2588-history-and-records-of-the-ligue-1-mc-donald-s-top-scorers)
 - [Saudi Pro League season records](https://www.spl.com.sa/en/news/2023-24-roshn-saudi-league-in-record-breaking-numbers)
 - [Egyptian FA profile for Hossam Hassan](https://www.efa.com.eg/ar/%D8%B1%D9%85%D9%88%D8%B2-%D9%85%D9%86-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9/%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86/)
+
+
