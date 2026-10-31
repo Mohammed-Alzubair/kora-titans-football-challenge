@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="shield" x1="22" y1="12" x2="106" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399"/>
+      <stop offset=".52" stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#071A24"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="42" y1="21" x2="91" y2="82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FEF3C7"/>
+      <stop offset=".52" stop-color="#FBBF24"/>
+      <stop offset="1" stop-color="#B45309"/>
+    </linearGradient>
+    <filter id="glow" x="17" y="7" width="94" height="111" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+  <path d="M64 7 112 24v34c0 30-18 50-48 63C34 108 16 88 16 58V24L64 7Z" fill="#34D399" opacity=".36" filter="url(#glow)"/>
+  <path d="M64 8 109 24v34c0 28-16 48-45 61C35 106 19 86 19 58V24L64 8Z" fill="url(#shield)" stroke="#FCD34D" stroke-width="4"/>
+  <path d="M64 17 100 30v28c0 22-12 38-36 50-24-12-36-28-36-50V30l36-13Z" stroke="#ECFDF5" stroke-opacity=".72" stroke-width="2"/>
+  <path d="M43 37h10l3 15 8-12 8 12 3-15h10l-7 30H67l-3-8-3 8H50l-7-30Z" fill="url(#gold)" stroke="#FFF7D6" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M57 71h14l-2 8H59l-2-8Z" fill="url(#gold)"/>
+  <circle cx="64" cy="91" r="8" fill="#F8FAFC" stroke="#FBBF24" stroke-width="2"/>
+  <path d="m64 83 3 4-2 4 4 3m-13 1 5-2 3 4m8-1-3-5m-12-5 3 4-1 5m8-9-4 4 1 5" stroke="#0F172A" stroke-width="1.2" stroke-linecap="round"/>
+</svg>
